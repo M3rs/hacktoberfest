@@ -1,0 +1,9 @@
+I love open source because it is such a great way to encourage sharing and
+learning. 
+
+Other people solve problems and share their solutions, and I can do the same
+thing, and we can all use eachothers shared code. 
+
+I really love learning by digging into the source code of an open source
+project that I am using, too. Something very satisfying about finding the
+exact line of code that pertains to what I am looking for and just knowing.
